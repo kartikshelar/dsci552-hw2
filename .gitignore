@@ -1,0 +1,14 @@
+# OS / editor artifacts
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Raw downloaded archive (already extracted into data/)
+Homework 2 Data.zip
