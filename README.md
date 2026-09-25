@@ -9,7 +9,6 @@ DSCI-552 (Machine Learning for Data Science) — Homework 2.
 ├── README.md
 ├── requirements.txt
 ├── Homework2.pdf
-├── Homework 2 Data.zip
 ├── data
 │   └── CCPP
 │       ├── Folds5x2_pp.xlsx
@@ -26,7 +25,7 @@ DSCI-552 (Machine Learning for Data Science) — Homework 2.
 - `notebook/Shelar_Kartik_HW2.ipynb` — full analysis: simple/multiple linear
   regression, interaction terms, nonlinear associations, KNN regression, and
   model comparison via statsmodels/scikit-learn.
-- `Homework2.pdf` — assignment prompt.
+- `Homework2.pdf` — assignment.
 
 ## Setup
 
